@@ -7,25 +7,49 @@ const Movies = () => {
       <MoviesContent>
         <Wrap>
           <img
-            src="https://i.ebayimg.com/images/g/CzsAAOSwUwVgKWJ1/s-l300.jpg"
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
             alt=""
           />
         </Wrap>
         <Wrap>
           <img
-            src="https://i.ebayimg.com/images/g/CzsAAOSwUwVgKWJ1/s-l300.jpg"
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
             alt=""
           />
         </Wrap>
         <Wrap>
           <img
-            src="https://i.ebayimg.com/images/g/CzsAAOSwUwVgKWJ1/s-l300.jpg"
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
             alt=""
           />
         </Wrap>
         <Wrap>
           <img
-            src="https://i.ebayimg.com/images/g/CzsAAOSwUwVgKWJ1/s-l300.jpg"
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
+            alt=""
+          />
+        </Wrap>
+        <Wrap>
+          <img
+            src="https://media.wired.com/photos/5932d503f682204f73697c96/master/pass/TDK_P3_1280.jpg"
             alt=""
           />
         </Wrap>
@@ -63,5 +87,7 @@ const Wrap = styled.div`
   &:hover {
     transform: scale(1.05);
     border-color: rgba(249, 249, 249, 0.8);
+    box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px,
+      rgb(0 0 0 / 72%) 0px 30px 22px -10px;
   }
 `;
